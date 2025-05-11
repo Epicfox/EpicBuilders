@@ -1,8 +1,12 @@
 //
 //  EpicBuildersTests.swift
 //  EpicBuilders
+//  Copyright © 2025 Richard Venable
 //
 //  Created by Richard Venable on 5/4/25 (May the Fourth be with you).
+//
+//  Distributed under the MIT License.
+//  See https://opensource.org/licenses/MIT for full terms.
 //
 
 
